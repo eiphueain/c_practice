@@ -5,7 +5,7 @@ and calculates the total to print a string out
 */
 
 #include <stdio.h>
-int main() {
+int shoppinglist() {
     // variable declaration
-
+    return 0;
 }
